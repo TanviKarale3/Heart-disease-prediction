@@ -1,5 +1,7 @@
 ## Heart-Disease-Prediction 
 
+<p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmail.tehnoexport.rs%2F%3Fc%3Dheart-disease-prediction-devpost-gg-KMV55gI0&psig=AOvVaw3tJ4GPMTG5mYsHSTqTuSVn&ust=1713414352567000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiy64y0yIUDFQAAAAAdAAAAABAJ="tanvikarale3" /> </p>
+
 ### Overview
 
 A simple web application which uses Machine Learning algorithm to predict the heart condition of a person by providing some inputs about the person health like age, gender, blood pressure, cholesterol level etc built using `Flask` and deployed on `Heroku`.
