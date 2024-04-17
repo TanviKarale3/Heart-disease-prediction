@@ -1,6 +1,6 @@
 ## Heart-Disease-Prediction 
 
-<p align="left"> <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmail.tehnoexport.rs%2F%3Fc%3Dheart-disease-prediction-devpost-gg-KMV55gI0&psig=AOvVaw3tJ4GPMTG5mYsHSTqTuSVn&ust=1713414352567000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiy64y0yIUDFQAAAAAdAAAAABAJ="tanvikarale3" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7Lwj4uhxSTeHgGIq6_MWcKbUgNz2KYKnbmeEzhCzMoUXD_O8FKpJ8BP4HhcSIrjMimY&usqp=CAU"="tanvikarale3" /> </p>
 
 ### Overview
 
